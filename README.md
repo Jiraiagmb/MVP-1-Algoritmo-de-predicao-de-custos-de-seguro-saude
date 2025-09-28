@@ -40,6 +40,7 @@ Assume-se que existe uma relação sistemática entre as variáveis independente
 ## **1. Importando bibliotecas**
 
 ---
+! pip install lazypredict
 
 ```
 # Manipulação de dados
